@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/GliMall.iml" filepath="$PROJECT_DIR$/GliMall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/glimall-coupon/glimall-coupon.iml" filepath="$PROJECT_DIR$/glimall-coupon/glimall-coupon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/glimall-member/glimall-member.iml" filepath="$PROJECT_DIR$/glimall-member/glimall-member.iml" />
+      <module fileurl="file://$PROJECT_DIR$/glimall-product/glimall-product.iml" filepath="$PROJECT_DIR$/glimall-product/glimall-product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/glimall-ware/glimall-ware.iml" filepath="$PROJECT_DIR$/glimall-ware/glimall-ware.iml" />
+    </modules>
+  </component>
+</project>
